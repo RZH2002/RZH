@@ -1,0 +1,30 @@
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.DL\bin\Debug\net8.0\BestCarDealership.DL.deps.json
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.DL\bin\Debug\net8.0\BestCarDealership.DL.dll
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.DL\bin\Debug\net8.0\BestCarDealership.DL.pdb
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.DL\bin\Debug\net8.0\BestCarDealership.Models.dll
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.DL\bin\Debug\net8.0\BestCarDealership.Models.pdb
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.DL\obj\Debug\net8.0\BestCarDealership.DL.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.DL\obj\Debug\net8.0\BestCarDealership.DL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.DL\obj\Debug\net8.0\BestCarDealership.DL.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.DL\obj\Debug\net8.0\BestCarDealership.DL.AssemblyInfo.cs
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.DL\obj\Debug\net8.0\BestCarDealership.DL.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.DL\obj\Debug\net8.0\BestCarD.E297D6A4.Up2Date
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.DL\obj\Debug\net8.0\BestCarDealership.DL.dll
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.DL\obj\Debug\net8.0\refint\BestCarDealership.DL.dll
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.DL\obj\Debug\net8.0\BestCarDealership.DL.pdb
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.DL\obj\Debug\net8.0\ref\BestCarDealership.DL.dll
+C:\Users\MSI\Desktop\RZH\BestCarDealership.DL\bin\Debug\net8.0\BestCarDealership.DL.deps.json
+C:\Users\MSI\Desktop\RZH\BestCarDealership.DL\bin\Debug\net8.0\BestCarDealership.DL.dll
+C:\Users\MSI\Desktop\RZH\BestCarDealership.DL\bin\Debug\net8.0\BestCarDealership.DL.pdb
+C:\Users\MSI\Desktop\RZH\BestCarDealership.DL\bin\Debug\net8.0\BestCarDealership.Models.dll
+C:\Users\MSI\Desktop\RZH\BestCarDealership.DL\bin\Debug\net8.0\BestCarDealership.Models.pdb
+C:\Users\MSI\Desktop\RZH\BestCarDealership.DL\obj\Debug\net8.0\BestCarDealership.DL.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\RZH\BestCarDealership.DL\obj\Debug\net8.0\BestCarDealership.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\RZH\BestCarDealership.DL\obj\Debug\net8.0\BestCarDealership.DL.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\RZH\BestCarDealership.DL\obj\Debug\net8.0\BestCarDealership.DL.AssemblyInfo.cs
+C:\Users\MSI\Desktop\RZH\BestCarDealership.DL\obj\Debug\net8.0\BestCarDealership.DL.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\RZH\BestCarDealership.DL\obj\Debug\net8.0\BestCarD.E297D6A4.Up2Date
+C:\Users\MSI\Desktop\RZH\BestCarDealership.DL\obj\Debug\net8.0\BestCarDealership.DL.dll
+C:\Users\MSI\Desktop\RZH\BestCarDealership.DL\obj\Debug\net8.0\refint\BestCarDealership.DL.dll
+C:\Users\MSI\Desktop\RZH\BestCarDealership.DL\obj\Debug\net8.0\BestCarDealership.DL.pdb
+C:\Users\MSI\Desktop\RZH\BestCarDealership.DL\obj\Debug\net8.0\ref\BestCarDealership.DL.dll

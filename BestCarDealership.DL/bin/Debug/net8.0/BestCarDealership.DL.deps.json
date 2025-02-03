@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BestCarDealership.DL/1.0.0": {
+        "dependencies": {
+          "BestCarDealership.Models": "1.0.0"
+        },
+        "runtime": {
+          "BestCarDealership.DL.dll": {}
+        }
+      },
+      "BestCarDealership.Models/1.0.0": {
+        "runtime": {
+          "BestCarDealership.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BestCarDealership.DL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BestCarDealership.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

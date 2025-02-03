@@ -1,0 +1,11 @@
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.Models\obj\Debug\net6.0\BestCarDealership.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.Models\obj\Debug\net6.0\BestCarDealership.Models.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.Models\obj\Debug\net6.0\BestCarDealership.Models.AssemblyInfo.cs
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.Models\obj\Debug\net6.0\BestCarDealership.Models.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.Models\bin\Debug\net6.0\BestCarDealership.Models.deps.json
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.Models\bin\Debug\net6.0\BestCarDealership.Models.dll
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.Models\bin\Debug\net6.0\BestCarDealership.Models.pdb
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.Models\obj\Debug\net6.0\BestCarDealership.Models.dll
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.Models\obj\Debug\net6.0\refint\BestCarDealership.Models.dll
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.Models\obj\Debug\net6.0\BestCarDealership.Models.pdb
+E:\Visual Studio Projects\BestCarDealership\BestCarDealership.Models\obj\Debug\net6.0\ref\BestCarDealership.Models.dll
